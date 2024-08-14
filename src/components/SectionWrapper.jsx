@@ -46,7 +46,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              // link="https://expo.dev/@adrianhajdin/react_native_app?serviceType=classic&distribution=expo-go"
+              link="https://expo.dev/preview/update?message=nftmarketplace&updateRuntimeVersion=1.0.0&createdAt=2024-08-14T19%3A06%3A29.067Z&slug=exp&projectId=ab268876-ad32-428a-bfa1-9009f028b3d1&group=ce35bc07-7ce2-4977-b055-6f99b1cc500c "
             />
           )}
         </div>
